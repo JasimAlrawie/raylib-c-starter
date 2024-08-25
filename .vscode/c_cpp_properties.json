@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\w64devkit\\x86_64-w64-mingw32\\include**",
+                "${workspaceFolder}/**"
+            ],
+            "compilerPath": "C:\\w64devkit\\bin\\gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
